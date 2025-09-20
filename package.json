@@ -1,0 +1,28 @@
+{
+  "name": "ezzyops-cdn",
+  "version": "1.0.0",
+  "description": "EzzyOps CDN - Static assets and resources for EzzyOps applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adesh66/ezzyops-cdn.git"
+  },
+  "keywords": [
+    "cdn",
+    "assets",
+    "ezzyops",
+    "static-files"
+  ],
+  "author": "Adesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adesh66/ezzyops-cdn/issues"
+  },
+  "homepage": "https://github.com/Adesh66/ezzyops-cdn#readme",
+  "files": [
+    "assets/**/*",
+    "icons/**/*",
+    "json/**/*",
+    "scripts/**/*"
+  ]
+}
